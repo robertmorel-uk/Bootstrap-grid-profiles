@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-large:-Desktops---12-col" transform="translate(-355.000000, -288.000000)" fill="#F5A623">
+            <g id="reader-card-01" transform="translate(165.000000, 115.000000)">
+                <g id="cards-/-reader-/-desktop-/-landscape" transform="translate(0.000000, 1.000000)">
+                    <g id="Rating" transform="translate(190.000000, 172.000000)">
+                        <g id="stars4.5">
+                            <g id="star-1">
+                                <polygon id="star" points="10 15.273 16.18 19 14.545 11.971 20 7.244 12.809 6.627 10 0 7.191 6.627 0 7.244 5.455 11.971 3.82 19"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

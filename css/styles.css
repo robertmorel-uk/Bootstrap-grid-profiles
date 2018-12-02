@@ -1,4 +1,4 @@
-.psy-img-profile-pic {
+.psy-profile-pic {
   width: 126px;
   height: 126px;
   border: 7px solid #ffffff;
@@ -9,8 +9,67 @@
   margin-top: -63px;
 }
 
+.psy-star-icon {
+  width: 20px;
+  height: 19px;
+  float: left;
+}
+
 .psy-profile-row {
   background: rgba(234, 234, 255, 0.57);
+  padding: 30px;
+}
+
+.psy-profile-name {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 500;
+  font-size: 22px;
+  color: #8232f1;
+  fill: #8232f1;
+  text-align: left;
+  line-height: 27px;
+}
+
+.psy-profile-headline {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #404040;
+  fill: #404040;
+  text-align: left;
+  line-height: 20px;
+}
+
+.psy-profile-excerpt {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #404040;
+  fill: #404040;
+  text-align: left;
+  line-height: 20px;
+}
+
+.psy-star-text {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 500;
+  font-size: 11px;
+  color: #24252d;
+  text-align: left;
+  line-height: 15px;
+  padding: 5px;
+  float: left;
+}
+
+.psy-operator-box {
+  width: 236.6px;
+  height: 172px;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+  /*Center divs*/
+  position: absolute;
+  top: 50%;
+  margin-top: -86px;
 }
 
 /*# sourceMappingURL=styles.css.map */
